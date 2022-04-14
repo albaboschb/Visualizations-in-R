@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albaboschb
-- 👀 I’m a social scientist and a Lyric Singer 
-- 🌱 I’m currently learning R and I'm interested in applying it to social science research 
+- I’m a social scientist and a Lyric Singer 
+- I’m currently learning R and I'm interested in applying it to social science research 
 
 
 <!---

@@ -1,4 +1,4 @@
-- These are my contributions to the weekly TidyTuesday challenge organized by the R4DS online learning community (https://github.com/rfordatascience/tidytuesday): 
+These are my contributions to the weekly TidyTuesday challenge organized by the R4DS online learning community (https://github.com/rfordatascience/tidytuesday): 
 
 
 <!---
